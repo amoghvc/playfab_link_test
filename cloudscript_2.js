@@ -288,4 +288,3 @@ handlers.RoomEventRaised = function (args) {
             break;
     }
 };
-
